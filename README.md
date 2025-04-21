@@ -1,4 +1,4 @@
-# sasha mandel's personal website
+# sasha mandel
 creative technologist making music, art, and sound
 
-## 🚧 UNDER CONSTRUCTION 🚧
+🚧**UNDER CONSTRUCTION**🚧
