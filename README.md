@@ -1,4 +1,5 @@
-# sasha mandel
-creative technologist making music, art, and sound
+# about me:
+I'm a creative technologist making music, art, and sound
 
-🚧**UNDER CONSTRUCTION**🚧
+# **🚧** **UNDER CONSTRUCTION** **🚧**
+
