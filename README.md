@@ -14,8 +14,12 @@ Sasha Mandel is a creative technologist making music, art, and sound through cod
 
 **[Meridian Paths](https://ikaia.itch.io/meridianpaths)**
 
-|🕹️ Virtual site-specific audio installation and soundscape, created in collaboration with Lucinda Trask for [SoundPedro 2021](https://soundpedro.art/2021/lucinda-trask-sasha-mandel/).|
+|🕹️ Virtual site-specific audio installation and soundscape, created in collaboration with Lucinda Trask for [SoundPedro 2021](https://soundpedro.art/2021/lucinda-trask-sasha-mandel/). Unity / Fmod|
 
 **[Three Primes](https://3prime.itch.io/three-primes)**
 
-|⚗️ A game about alchemy, exploration, and discovery.|
+|⚗️ A game about alchemy, exploration, and discovery. Unity / Fmod|
+
+**[Cafe Noir](https://ikaia.itch.io/cafe-noir)**
+
+|👾 A nostalgic 8-bit escape room game. Bitsy|
