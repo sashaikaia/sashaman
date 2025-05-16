@@ -1,18 +1,18 @@
-## About:
+# Sasha Mandel
 
-Sasha Mandel is a creative technologist making music, art, and sound through code. 
+**About:** Sasha Mandel is a creative technologist making music, art, and sound through code. 
 
-## Projects:
+## Some Projects:
 
 🎚️ **[NotAnalog ⧉](https://not-analog.onrender.com)**
 
 |Semi-modular synthesizer and sequencer with patch saving and sharing, running in your web browser.|
-|<small>🛠 Django, Web Audio API, PostgreSQL.<small>|
+|<small>🛠 Django, Web Audio API, PostgreSQL.<small> (please be patient, this deployment is running on Render free tier)|
 
 🎨 **[PricelessArt ⧉](https://priceless-art.onrender.com)**
 
 |Procedural art generator and gallery.|
-|<small>🛠 NodeJS, Express, EJS, P5.js, MongoDB.<small>|
+|<small>🛠 NodeJS, Express, EJS, P5.js, MongoDB.<small> (please be patient, this deployment is running on Render free tier)|
 
 🕹️ **[Meridian Paths ⧉](https://ikaia.itch.io/meridianpaths)**
 
