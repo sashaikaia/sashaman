@@ -4,15 +4,15 @@
 
 ## Some Projects:
 
-🎚️ **[NotAnalog ⧉](https://not-analog.onrender.com)**
+🎚️ **[NotAnalog ⧉](https://notanalog.app)**
 
 |Semi-modular synthesizer and sequencer with patch saving and sharing, running in your web browser.|
-|<small>🛠 Django, Web Audio API, PostgreSQL.<small> (please be patient, this deployment is running on Render free tier)|
+|<small>🛠 Django, Web Audio API, PostgreSQL.<small> |
 
-🎨 **[PricelessArt ⧉](https://priceless-art.onrender.com)**
+🎨 **[PricelessArt ⧉](https://valuable.gallery)**
 
 |Procedural art generator and gallery.|
-|<small>🛠 NodeJS, Express, EJS, P5.js, MongoDB.<small> (please be patient, this deployment is running on Render free tier)|
+|<small>🛠 NodeJS, Express, EJS, P5.js, MongoDB.<small> |
 
 🕹️ **[Meridian Paths ⧉](https://ikaia.itch.io/meridianpaths)**
 
