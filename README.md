@@ -29,4 +29,4 @@
 |A nostalgic 8-bit escape room game. |
 |<small>🛠 Bitsy, HTML<small>|
 
-<script src="/assets/js/test.js"></script>
+<script src="/js/test.js"></script>
