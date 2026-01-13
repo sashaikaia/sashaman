@@ -28,3 +28,6 @@
 
 |A nostalgic 8-bit escape room game. |
 |<small>🛠 Bitsy, HTML<small>|
+
+<script src="/assets/js/random-link-colors.js"></script>
+<script src="/assets/js/random-favicon.js"></script>
