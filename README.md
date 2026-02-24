@@ -4,6 +4,11 @@
 
 ## Some Projects:
 
+🧀 **[Mycheese ⧉](https://cheese.sashaman.com)**
+
+|Cheese recommendation engine using cheese.com dataset from Kaggle. |
+|<small>🛠 HTML, CSS, JavaScript (ported from R).<small> |
+
 🎚️ **[NotAnalog ⧉](https://notanalog.app)**
 
 |Semi-modular synthesizer and sequencer with patch saving and sharing, running in your web browser.|
